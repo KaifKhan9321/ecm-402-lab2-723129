@@ -1,0 +1,5 @@
+--- Paired t-test: RBF SVM vs Random Forest ---
+Per-fold differences: [ 0.0649 -0.0897  0.0911 -0.0811 -0.1405]
+Mean difference: -0.0311
+t-statistic: -0.6776, p-value: 0.5352
+Result is NOT statistically significant at p < 0.05
