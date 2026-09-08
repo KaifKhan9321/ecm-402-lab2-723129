@@ -1,6 +1,6 @@
 # ECM402 Lab 2: Classical Machine Learning for Signal Classification
 
-**Author:** Vivekanand Ojha (Roll No: 723159)
+**Author:** Kaif Khan (Roll No: 723129)
 
 ## Track Selection
 **Track Chosen:** Track B - Spoken Digit Classification (Free Spoken Digit Dataset)
