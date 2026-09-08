@@ -12,7 +12,7 @@ The dataset consists of recordings from 6 distinct speakers. To prevent data lea
 
 ## Project Structure
 ```text
-ecm402-lab2-723159/
+ecm402-lab2-723129/
 |-- README.md
 |-- requirements.txt
 |-- report.pdf
